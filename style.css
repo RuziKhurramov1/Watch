@@ -1,0 +1,10 @@
+body{
+    background-color: black;
+    color:#fff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.time{
+    font-size:300px ;
+    color:#2bff00;
+    text-shadow: 0px 0px 20px#e04040;
+}
